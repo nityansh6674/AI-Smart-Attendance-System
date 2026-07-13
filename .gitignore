@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+
+# VS Code
+.vscode/
+
+# Dataset (student face images)
+dataset/
+
+# Generated database
+attendance.db
