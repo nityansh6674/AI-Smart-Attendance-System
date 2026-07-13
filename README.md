@@ -108,7 +108,7 @@ pip install -r requirements.txt
 ### Step 1 — Create Database
 
 ```bash
-python database.py
+database.py
 ```
 
 Creates the SQLite database for storing attendance records.
